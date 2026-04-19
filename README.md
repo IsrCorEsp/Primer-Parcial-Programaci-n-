@@ -167,4 +167,12 @@ project/
 
 ## Authors
 
-Developed as part of the **C++ Programming** course — Evaluative Project: Mini-ERP for MIPYME.
+Developed as part of the first partial exam of the Programming subject
+— Career: Telecommunications and Electronics Engineering.
+
+1. Israel Córdova 
+2. Willian L. Rabeiro
+3. Leyan Barrios
+4. Alejandro L. Bencomo
+5. Gabriel Fonte
+6. Remberto Santalla
